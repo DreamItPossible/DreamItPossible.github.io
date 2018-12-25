@@ -3,7 +3,7 @@ layout:     post
 title:      基于zxing的二维码生成
 subtitle:   zxing qrcode
 date:       2018-02-07
-author:     Fe
+author:     Chen
 header-img: img/post-bg-hacker.jpg
 keywords_post:  "zxing,二维码,将BufferedImage对象在前端显示,定制二维码"
 catalog: true
