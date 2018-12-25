@@ -122,6 +122,6 @@ src/redis-cli -a test
 和连接本地一样,只要输入远程redis服务的ip和端口号就好了
 
 
-
+>本文转自[FeDemo](https://fedemo.top/)
 
 <br>
