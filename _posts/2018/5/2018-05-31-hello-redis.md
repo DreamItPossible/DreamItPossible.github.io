@@ -3,7 +3,7 @@ layout:     post
 title:      redis安装使用笔记
 subtitle:   hello redis
 date:       2018-05-31
-author:     Fe
+author:     Chen
 header-img: img/post-bg-geometry.jpg
 keywords_post:  "redis，redis安装使用笔记,redis在linux上的安装,redis在windows上的安装"
 catalog: true
