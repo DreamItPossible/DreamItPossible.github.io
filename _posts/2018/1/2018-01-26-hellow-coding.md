@@ -3,7 +3,7 @@ layout:     post
 title:      解决github屏蔽百度爬虫的问题
 subtitle:   hello coding
 date:       2018-01-26
-author:     Fe
+author:     Chen
 header-img: img/post-bg-coding.png
 keywords_post:  "coding,github,coding-page,github-pages,解决github-pages无法被百度抓取的问题"
 catalog: true
