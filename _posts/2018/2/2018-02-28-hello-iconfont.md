@@ -3,7 +3,7 @@ layout:     post
 title:      阿里巴巴矢量图标库使用笔记
 subtitle:   hello iconfont
 date:       2018-02-28
-author:     Fe
+author:     Chen
 header-img: img/post-bg-desk.jpg
 keywords_post:  "图标库,阿里巴巴矢量图标库,阿里妈妈矢量图标,iconfont,Glyphicons"
 catalog: true
