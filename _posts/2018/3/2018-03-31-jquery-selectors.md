@@ -109,3 +109,6 @@ var dom=document.getElementById("yourId");//dom对象
 var jq=$(dom);//jquery对象
 ```
 将dom对象包一层`$()`后,就成了`jquery`对象  
+
+
+>本文转自[FeDemo](https://fedemo.top/)
