@@ -3,7 +3,7 @@ layout:     post
 title:      struts1的html标签笔记
 subtitle:   Struts1_html tags
 date:       2018-01-13
-author:     Fe
+author:     Chen
 header-img: img/post-bg-p64476688.jpg
 keywords_post:  "struts1,html:标签"
 catalog: true
