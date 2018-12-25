@@ -63,11 +63,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: '75ef4c0ecfb2cd85a8f0'    #生成的clientID
-  clientSecret: 'b51aa6b7351f3b3b7a0940714af8489fddb5f905'   #同上
+  clientID: '28b5131cf176ca6e0f41'    #生成的clientID
+  clientSecret: '3d7a605114d7bb075e29587702c54c677d42e0ca'   #同上
   repo: img_gitalk    #仓库名称
-  owner: FeDemo    #github用户名
-  admin: FeDemo
+  owner: DreamItPossible    #github用户名
+  admin: DreamItPossible
 
 
 
