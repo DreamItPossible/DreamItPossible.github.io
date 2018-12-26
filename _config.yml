@@ -61,13 +61,13 @@ kramdown:
 
 # 评论系统
 # Gitalk
-#  gitalk:
-#    enable: true    #是否开启Gitalk评论
-#    clientID: '28b5131cf176ca6e0f41'    #生成的clientID
-#    clientSecret: '3d7a605114d7bb075e29587702c54c677d42e0ca'   #同上
-#    repo: DreamItPossible.github.io    #仓库名称
-#    owner: DreamItPossible    #github用户名
-#    admin: DreamItPossible
+ gitalk:
+   enable: true    #是否开启Gitalk评论
+   clientID: '28b5131cf176ca6e0f41'    #生成的clientID
+   clientSecret: '3d7a605114d7bb075e29587702c54c677d42e0ca'   #同上
+   repo: DreamItPossible.github.io    #仓库名称
+   owner: DreamItPossible    #github用户名
+   admin: DreamItPossible
 
 
 
