@@ -1,11 +1,11 @@
 # Site settings
 title: Chen Blog  #你博客的标题
-SEOTitle: 陈的博客 | Chen Blog  #显示在浏览器上搜索的时候显示的标题
+SEOTitle: Chen的博客 | Fe Blog  #显示在浏览器上搜索的时候显示的标题
 header-img: img/page-bg-keyboard.png #显示在首页的背景图片
-email: c.hen-tao@163.com
-description: "Hey，我是Chen，一只JAVA程序猿,这是我的利用 GitHub Pages 搭建的个人博客。内有搭建博客的详细教程,欢迎大家来玩。" #网站介绍
+email: fe@fedemo.top
+description: "Hey，我是Chen，一只JAVA程序猿,这是我的利用 GitHub Pages 与 Jekyll 搭建的个人博客。内有搭建博客的详细教程,欢迎大家来玩。" #网站介绍
 keyword: "Chen的博客,GitHub,博客,Blog,JAVA" #关键词
-url: "https://flyfuture.top"          # your host, for absolute URL
+url: "https://flyfuture.top"           # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/DreamItPossible/DreamItPossible.github.io" # you code repository
 author: Chen
@@ -25,11 +25,11 @@ sidebar-avatar: /img/avatar_p11179162.jpg      # use absolute URL, seeing it's u
 # SNS settings社交账号
 RSS: false
 # weibo_username:
-#zhihu_username:    
+#zhihu_username:    fedemo
 github_username:    DreamItPossible
 # facebook_username:
-#twitter_username:   
-# coding_username: 
+#twitter_username:   Fedemo10
+# coding_username: fedemo
 
 
 
@@ -38,7 +38,9 @@ github_username:    DreamItPossible
 permalink: pretty
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-anchorjs: true       
+anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+
+
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
@@ -59,20 +61,20 @@ kramdown:
 
 # 评论系统
 # Gitalk
- gitalk:
-   enable: true    #是否开启Gitalk评论
-   clientID: '28b5131cf176ca6e0f41'    #生成的clientID
-   clientSecret: '3d7a605114d7bb075e29587702c54c677d42e0ca'   #同上
-   repo: DreamItPossible.github.io    #仓库名称
-   owner: DreamItPossible    #github用户名
-   admin: DreamItPossible
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: '28b5131cf176ca6e0f41'    #生成的clientID
+  clientSecret: '3d7a605114d7bb075e29587702c54c677d42e0ca'   #同上
+  repo: DreamItPossible.github.io    #仓库名称
+  owner: DreamItPossible    #github用户名
+  admin: DreamItPossible
 
 
 
 
 # Analytics settings 百度统计track_id
 # Baidu Analytics
-# ba_track_id: 48a826bf91c2384e3563a53818889b53
+ba_track_id: ced86d2ada092fb3a0d736f793d90120
 
 # Google Analytics
 # ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
