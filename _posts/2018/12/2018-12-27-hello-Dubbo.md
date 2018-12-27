@@ -37,7 +37,7 @@ Dubbo 文档:
 
     ​	[用法](http://dubbo.apache.org/zh-cn/docs/user/preface/usage.html)
 
-        背景、需求、架构、用法都对Dubbo做了简单的介绍，很有趣，学习Dubbo的调味品！
+    ​   背景、需求、架构、用法都对Dubbo做了简单的介绍，很有趣，学习Dubbo的调味品！
 
 
 
