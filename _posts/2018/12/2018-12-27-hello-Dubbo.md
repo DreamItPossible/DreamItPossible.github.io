@@ -49,5 +49,5 @@ Dubbo 文档-配置,包含:
 
 ​	注解配置(http://dubbo.apache.org/zh-cn/docs/user/configuration/annotation.html)
 
-未完待续。。。
+未完待续......
 
