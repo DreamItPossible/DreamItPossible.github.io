@@ -25,7 +25,7 @@ Dubbo  [首页](http://dubbo.apache.org/zh-cn/index.html)
 
 Dubbo 文档:
 
-    [入门](http://dubbo.apache.org/zh-cn/docs/user/preface/background.html),
+​   [入门](http://dubbo.apache.org/zh-cn/docs/user/preface/background.html)
 
 包含Dubbo:
 
@@ -37,7 +37,7 @@ Dubbo 文档:
 
 ​	[用法](http://dubbo.apache.org/zh-cn/docs/user/preface/usage.html)
 
-​        很有趣，学习的调味品！
+    背景、需求、架构、用法都对Dubbo做了简单的介绍，很有趣，学习Dubbo的调味品！
 
 
 
