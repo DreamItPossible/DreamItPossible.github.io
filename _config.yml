@@ -74,7 +74,7 @@ kramdown:
 
 Analytics settings 百度统计track_id
 Baidu Analytics
-ba_track_id: 48a826bf91c2384e3563a53818889b53
+ba_track_id: 
 
 # Google Analytics
 # ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
