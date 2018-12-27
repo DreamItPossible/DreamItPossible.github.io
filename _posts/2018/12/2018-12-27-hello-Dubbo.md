@@ -45,9 +45,9 @@ Dubbo 文档-配置,包含:
 
 ​	属性配置(http://dubbo.apache.org/zh-cn/docs/user/configuration/properties.html)，
 
- 	API配置(http://dubbo.apache.org/zh-cn/docs/user/configuration/api.html)，
+​	API配置(http://dubbo.apache.org/zh-cn/docs/user/configuration/api.html)，
 
- 	注解配置(http://dubbo.apache.org/zh-cn/docs/user/configuration/annotation.html)
+​	注解配置(http://dubbo.apache.org/zh-cn/docs/user/configuration/annotation.html)
 
 
 
