@@ -19,11 +19,13 @@ tags:
 
 
 
-Dubbo  首页(http://dubbo.apache.org/zh-cn/index.html)
+Dubbo  [首页](http://dubbo.apache.org/zh-cn/index.html)
 
 
 
-Dubbo 文档-入门(http://dubbo.apache.org/zh-cn/docs/user/preface/background.html),
+Dubbo 文档:
+
+    [入门](http://dubbo.apache.org/zh-cn/docs/user/preface/background.html),
 
 包含Dubbo:
 
