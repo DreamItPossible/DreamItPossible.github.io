@@ -27,13 +27,13 @@ Dubbo 文档-入门(http://dubbo.apache.org/zh-cn/docs/user/preface/background.h
 
 包含Dubbo:
 
-​	背景(http://dubbo.apache.org/zh-cn/docs/user/preface/background.html)，
+​	[背景](http://dubbo.apache.org/zh-cn/docs/user/preface/background.html)，
 
-​	需求(http://dubbo.apache.org/zh-cn/docs/user/preface/requirements.html)，
+​	[需求](http://dubbo.apache.org/zh-cn/docs/user/preface/requirements.html)，
 
-​	架构(http://dubbo.apache.org/zh-cn/docs/user/preface/architecture.html)，
+​	[架构](http://dubbo.apache.org/zh-cn/docs/user/preface/architecture.html)，
 
-​	用法(http://dubbo.apache.org/zh-cn/docs/user/preface/usage.html)
+​	[用法](http://dubbo.apache.org/zh-cn/docs/user/preface/usage.html)
 
 ​        很有趣，学习的调味品！
 
@@ -41,13 +41,13 @@ Dubbo 文档-入门(http://dubbo.apache.org/zh-cn/docs/user/preface/background.h
 
 Dubbo 文档-配置,包含:
 
-​	XML配置(http://dubbo.apache.org/zh-cn/docs/user/configuration/xml.html)，
+​	[XML配置](http://dubbo.apache.org/zh-cn/docs/user/configuration/xml.html)，
 
-​	属性配置(http://dubbo.apache.org/zh-cn/docs/user/configuration/properties.html)，
+​	[属性配置](http://dubbo.apache.org/zh-cn/docs/user/configuration/properties.html)，
 
-​	API配置(http://dubbo.apache.org/zh-cn/docs/user/configuration/api.html)，
+​	[API配置](http://dubbo.apache.org/zh-cn/docs/user/configuration/api.html)，
 
-​	注解配置(http://dubbo.apache.org/zh-cn/docs/user/configuration/annotation.html)
+​	[注解配置](http://dubbo.apache.org/zh-cn/docs/user/configuration/annotation.html)
 
 未完待续......
 
