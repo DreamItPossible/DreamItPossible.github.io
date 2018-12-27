@@ -38,9 +38,7 @@ github_username:    DreamItPossible
 permalink: pretty
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
-
-
+anchorjs: true       
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
@@ -74,7 +72,7 @@ kramdown:
 
 # Analytics settings 百度统计track_id
 # Baidu Analytics
-ba_track_id: 48a826bf91c2384e3563a53818889b53
+# ba_track_id: 48a826bf91c2384e3563a53818889b53
 
 # Google Analytics
 # ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
