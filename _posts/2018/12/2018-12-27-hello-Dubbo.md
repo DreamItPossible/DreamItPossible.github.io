@@ -58,7 +58,8 @@ tags:
 
 ​   [负载均衡](http://dubbo.apache.org/zh-cn/docs/user/demos/loadbalance.html)
 
-​   [Dubbo 提供了4种负载均衡实现,源码分析...](http://dubbo.apache.org/zh-cn/docs/source_code_guide/loadbalance.html)
+​   [负载均衡4种实现](http://dubbo.apache.org/zh-cn/docs/source_code_guide/loadbalance.html)
+
     后面还有很多示例，每个链接的左侧目录栏可查看，再接再厉！
     
 ### 四、注册中心参考手册
@@ -81,7 +82,7 @@ tags:
 
 ​   [魔鬼在细节](http://dubbo.apache.org/zh-cn/docs/dev/principals/code-detail.html)
 
-​   [一些设计上的基本常识](http://dubbo.apache.org/zh-cn/docs/dev/principals/general-knowledge.html
+​   [一些设计上的基本常识](http://dubbo.apache.org/zh-cn/docs/dev/principals/general-knowledge.html)
 
 ​   [配置设计](http://dubbo.apache.org/zh-cn/docs/dev/principals/configuration.html)
 
