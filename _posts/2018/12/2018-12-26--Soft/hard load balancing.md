@@ -59,6 +59,7 @@ Radware的AppDirector (AD)在服务器负载均衡应用方面可以做到本地
 软件负载均衡解决方案是指在一台或多台服务器相应的操作系统上安装一个或多个附加软件来实现负载均衡，它的优点是基于特定环境，配置简单，使用灵活，成本低廉，可以满足一般的负载均衡需求。
 
 目前比较流行的就三类软件负载均衡，LVS、Nginx和HAProxy。用的最多的还是LVS和Nginx这两种。
+[在 Dubbo 中，也有负载均衡的概念和相应的实现](http://dubbo.apache.org/zh-cn/docs/source_code_guide/loadbalance.html)。
 
 ◆LVS
 
