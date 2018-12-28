@@ -19,13 +19,13 @@ tags:
 
 
 
-Dubbo  [首页](http://dubbo.apache.org/zh-cn/index.html)
+### Dubbo  [首页](http://dubbo.apache.org/zh-cn/index.html)
 
 
 
-Dubbo 文档:
+### Dubbo 文档:
 
-入门知识：
+### 入门知识：
 
 ​	[背景](http://dubbo.apache.org/zh-cn/docs/user/preface/background.html)，
 
@@ -39,7 +39,7 @@ Dubbo 文档:
 
 
 
-Dubbo -配置:
+### Dubbo -配置:
 
 ​	[XML配置](http://dubbo.apache.org/zh-cn/docs/user/configuration/xml.html)，
 
@@ -49,11 +49,12 @@ Dubbo -配置:
 
 ​	[注解配置](http://dubbo.apache.org/zh-cn/docs/user/configuration/annotation.html)
 
-Dubbo各知识模块示例
+### Dubbo各知识模块示例
     这个有简单的演示，短小精悍，快速上手
-    [启动时检查](http://dubbo.apache.org/zh-cn/docs/user/demos/preflight-check.html)
-    [集群容错](http://dubbo.apache.org/zh-cn/docs/user/demos/fault-tolerent-strategy.html)
-    [负载均衡](http://dubbo.apache.org/zh-cn/docs/user/demos/loadbalance.html)
+    
+​   [启动时检查](http://dubbo.apache.org/zh-cn/docs/user/demos/preflight-check.html)
+​   [集群容错](http://dubbo.apache.org/zh-cn/docs/user/demos/fault-tolerent-strategy.html)
+​   [负载均衡](http://dubbo.apache.org/zh-cn/docs/user/demos/loadbalance.html)
     ...
     后面还有很多，大家链接一个进去，都有左侧栏链接到各模块，页面虽简，但后面的是一个大的知识库，学海无涯，努力前行！
 
