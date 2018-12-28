@@ -25,7 +25,7 @@ tags:
 
 ### Dubbo 文档:
 
-### 入门知识：
+### 一、入门知识：
 
 ​	[背景](http://dubbo.apache.org/zh-cn/docs/user/preface/background.html)，
 
@@ -39,7 +39,7 @@ tags:
 
 
 
-### Dubbo -配置:
+### 二、Dubbo -配置:
 
 ​	[XML配置](http://dubbo.apache.org/zh-cn/docs/user/configuration/xml.html)，
 
@@ -49,7 +49,7 @@ tags:
 
 ​	[注解配置](http://dubbo.apache.org/zh-cn/docs/user/configuration/annotation.html)
 
-### Dubbo各知识模块示例
+### 三、Dubbo各知识模块示例
     这个有简单的演示，短小精悍，快速上手
     
 ​   [启动时检查](http://dubbo.apache.org/zh-cn/docs/user/demos/preflight-check.html)
@@ -57,10 +57,11 @@ tags:
 ​   [集群容错](http://dubbo.apache.org/zh-cn/docs/user/demos/fault-tolerent-strategy.html)
 
 ​   [负载均衡](http://dubbo.apache.org/zh-cn/docs/user/demos/loadbalance.html)
+
 ​   [Dubbo 提供了4种负载均衡实现,源码分析...](http://dubbo.apache.org/zh-cn/docs/source_code_guide/loadbalance.html)
     后面还有很多示例，每个链接的左侧目录栏可查看，再接再厉！
     
-### 注册中心参考手册
+### 四、注册中心参考手册
 
 ​   [Zookeeper 注册中心(推荐使用)](http://dubbo.apache.org/zh-cn/docs/user/references/registry/zookeeper.html)
 
@@ -70,17 +71,17 @@ tags:
 
 ​   [Simple 注册中心](http://dubbo.apache.org/zh-cn/docs/user/references/registry/simple.html)
 
-### [服务化最佳实践](http://dubbo.apache.org/zh-cn/docs/user/best-practice.html)
+### 五、[服务化最佳实践](http://dubbo.apache.org/zh-cn/docs/user/best-practice.html)
 
-### [推荐用法](http://dubbo.apache.org/zh-cn/docs/user/recommend.html)
+### 六、[推荐用法](http://dubbo.apache.org/zh-cn/docs/user/recommend.html)
 
-### [框架设计](http://dubbo.apache.org/zh-cn/docs/dev/design.html)
+### 七、[框架设计](http://dubbo.apache.org/zh-cn/docs/dev/design.html)
 
-### 设计原则
+### 八、设计原则
 
 ​   [魔鬼在细节](http://dubbo.apache.org/zh-cn/docs/dev/principals/code-detail.html)
 
-​   [一些设计上的基本常识] (http://dubbo.apache.org/zh-cn/docs/dev/principals/general-knowledge.html
+​   [一些设计上的基本常识](http://dubbo.apache.org/zh-cn/docs/dev/principals/general-knowledge.html
 
 ​   [配置设计](http://dubbo.apache.org/zh-cn/docs/dev/principals/configuration.html)
 
@@ -88,4 +89,4 @@ tags:
 
 ​   [扩展点重构](http://dubbo.apache.org/zh-cn/docs/dev/principals/extension.html)
 
-
+更多其他知识点，可去[Dubbo首页](http://dubbo.apache.org/zh-cn/index.html)具体查找，加油！
