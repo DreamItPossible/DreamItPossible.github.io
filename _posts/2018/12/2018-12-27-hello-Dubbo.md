@@ -53,8 +53,39 @@ tags:
     这个有简单的演示，短小精悍，快速上手
     
 ​   [启动时检查](http://dubbo.apache.org/zh-cn/docs/user/demos/preflight-check.html)
+
 ​   [集群容错](http://dubbo.apache.org/zh-cn/docs/user/demos/fault-tolerent-strategy.html)
+
 ​   [负载均衡](http://dubbo.apache.org/zh-cn/docs/user/demos/loadbalance.html)
-    ...
-    后面还有很多，大家链接一个进去，都有左侧栏链接到各模块，页面虽简，但后面的是一个大的知识库，学海无涯，努力前行！
+​   [Dubbo 提供了4种负载均衡实现,源码分析...](http://dubbo.apache.org/zh-cn/docs/source_code_guide/loadbalance.html)
+    后面还有很多示例，每个链接的左侧目录栏可查看，再接再厉！
+    
+### 注册中心参考手册
+
+​   [Zookeeper 注册中心(推荐使用)](http://dubbo.apache.org/zh-cn/docs/user/references/registry/zookeeper.html)
+
+​   [Multicast 注册中心](http://dubbo.apache.org/zh-cn/docs/user/references/registry/multicast.html)
+
+​   [Redis 注册中心](http://dubbo.apache.org/zh-cn/docs/user/references/registry/redis.html)
+
+​   [Simple 注册中心](http://dubbo.apache.org/zh-cn/docs/user/references/registry/simple.html)
+
+### [服务化最佳实践](http://dubbo.apache.org/zh-cn/docs/user/best-practice.html)
+
+### [推荐用法](http://dubbo.apache.org/zh-cn/docs/user/recommend.html)
+
+### [框架设计](http://dubbo.apache.org/zh-cn/docs/dev/design.html)
+
+### 设计原则
+
+​   [魔鬼在细节](http://dubbo.apache.org/zh-cn/docs/dev/principals/code-detail.html)
+
+​   [一些设计上的基本常识] (http://dubbo.apache.org/zh-cn/docs/dev/principals/general-knowledge.html
+
+​   [配置设计](http://dubbo.apache.org/zh-cn/docs/dev/principals/configuration.html)
+
+​   [设计实现的健壮性](http://dubbo.apache.org/zh-cn/docs/dev/principals/robustness.html)
+
+​   [扩展点重构](http://dubbo.apache.org/zh-cn/docs/dev/principals/extension.html)
+
 
