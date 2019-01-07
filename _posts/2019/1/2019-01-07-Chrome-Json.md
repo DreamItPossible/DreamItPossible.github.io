@@ -89,9 +89,9 @@ tags:
 
    ![](https://github.com/DreamItPossible/DreamItPossible.github.io/blob/master/_posts/2019/1/88.PNG)
 
-   希望这些对你有帮助。
+   希望这些对你有帮助。如果想要学习到更多有关Chrome使用测试的知识点，请看[ShaLongBus](https://jingyan.baidu.com/user/npublic?uid=b458c311edf5000f9b2d569f)博客，这个博主有很多文章，非常有用！
    
-   >参考[经验百度](https://jingyan.baidu.com/article/a3a3f811326b128da2eb8a8b.html)
+   >参考[ShaLongBus](https://jingyan.baidu.com/user/npublic?uid=b458c311edf5000f9b2d569f)
      
 
 
