@@ -17,7 +17,7 @@ tags:
 
 我们看到的JSON数据一般都没有经过格式化处理，没有缩进，没有换行等，给开发者阅读造成了一定困难。而JSONView扩展程序可以自动对JSON数据转码、缩进、格式化，直接显示出格式化后的数据，同时它还支持各种数据类型的语法高亮，以及节点的收缩和展开等，使得开发人员可以更好的阅读信息。JSONView是一个比较使用比较广泛的的查看格式化后JSON数据的扩展程序，但笔者使用下来，不是很好用。经笔者测试，发现WEB前端助手(FeHelper)扩展程序比JSONView更好用一些。本文说明如何安装 & 使用WEB前端助手(FeHelper)扩展程序来查看JSON数据。
 
-![chrome](https://github.com/DreamItPossible/DreamItPossible.github.io/tree/master/_posts/2019/chrome.PNG)
+![](https://github.com/DreamItPossible/DreamItPossible.github.io/blob/master/_posts/2019/1/chrome.PNG)
 
 ## 方法/步骤
 
@@ -43,7 +43,7 @@ tags:
 
    下载地址：http://pan.baidu.com/s/1qYc9XSS
 
-   [![Chrome浏览器如何格式化查看JSON数据？](https://github.com/DreamItPossible/DreamItPossible.github.io/blob/master/_posts/2019/1/11.PNG)]
+   ![](https://github.com/DreamItPossible/DreamItPossible.github.io/blob/master/_posts/2019/1/11.PNG)
 
 3. 3
 
@@ -57,9 +57,9 @@ tags:
 
 
 
-   [![Chrome浏览器如何格式化查看JSON数据？](https://github.com/DreamItPossible/DreamItPossible.github.io/blob/master/_posts/2019/1/22.PNG)]
+   ![](https://github.com/DreamItPossible/DreamItPossible.github.io/blob/master/_posts/2019/1/22.PNG)
 
-   [![Chrome浏览器如何格式化查看JSON数据？](https://github.com/DreamItPossible/DreamItPossible.github.io/blob/master/_posts/2019/1/33.PNG)]
+   ![](https://github.com/DreamItPossible/DreamItPossible.github.io/blob/master/_posts/2019/1/33.PNG)
 
 4. 4
 
@@ -67,7 +67,7 @@ tags:
 
    浏览Json数据，WEB前端助手(FeHelper)会将JSON数据格式化显示。
 
-   [![Chrome浏览器如何格式化查看JSON数据？](https://github.com/DreamItPossible/DreamItPossible.github.io/blob/master/_posts/2019/1/44.PNG)]
+   ![](https://github.com/DreamItPossible/DreamItPossible.github.io/blob/master/_posts/2019/1/44.PNG)
 
 5. 5
 
@@ -75,9 +75,9 @@ tags:
 
    按下F12，打开开发者工具，选择"**Network**"选项卡，找到输出JSON数据的请求，右键菜单选择"**Open in tab**"就可以在标签页中查看格式化后的JSON数据了。
 
-   [![Chrome浏览器如何格式化查看JSON数据？](https://github.com/DreamItPossible/DreamItPossible.github.io/blob/master/_posts/2019/1/55.PNG)]
+   ![](https://github.com/DreamItPossible/DreamItPossible.github.io/blob/master/_posts/2019/1/55.PNG)
 
-   [![Chrome浏览器如何格式化查看JSON数据？](https://github.com/DreamItPossible/DreamItPossible.github.io/blob/master/_posts/2019/1/66.PNG)]
+   ![](https://github.com/DreamItPossible/DreamItPossible.github.io/blob/master/_posts/2019/1/66.PNG)
 
 6. 6
 
@@ -85,13 +85,13 @@ tags:
 
    右键点击WEB前端助手(FeHelper)扩展程序图标，下拉菜单中选择"**选项**"，打开WEB前端助手(FeHelper)的选项设置功能，可以开启/关闭功能。
 
-   [![Chrome浏览器如何格式化查看JSON数据？](https://github.com/DreamItPossible/DreamItPossible.github.io/blob/master/_posts/2019/1/77.PNG)]
+   ![](https://github.com/DreamItPossible/DreamItPossible.github.io/blob/master/_posts/2019/1/77.PNG)
 
-   [![Chrome浏览器如何格式化查看JSON数据？](https://github.com/DreamItPossible/DreamItPossible.github.io/blob/master/_posts/2019/1/88.PNG)]
+   ![](https://github.com/DreamItPossible/DreamItPossible.github.io/blob/master/_posts/2019/1/88.PNG)
 
    希望这些对你有帮助。
    
-   >参考[经营百度](https://jingyan.baidu.com/article/a3a3f811326b128da2eb8a8b.html)
+   >参考[经验百度](https://jingyan.baidu.com/article/a3a3f811326b128da2eb8a8b.html)
      
 
 
