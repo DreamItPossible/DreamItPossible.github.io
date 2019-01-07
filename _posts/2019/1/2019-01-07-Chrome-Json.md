@@ -17,7 +17,7 @@ tags:
 
 我们看到的JSON数据一般都没有经过格式化处理，没有缩进，没有换行等，给开发者阅读造成了一定困难。而JSONView扩展程序可以自动对JSON数据转码、缩进、格式化，直接显示出格式化后的数据，同时它还支持各种数据类型的语法高亮，以及节点的收缩和展开等，使得开发人员可以更好的阅读信息。JSONView是一个比较使用比较广泛的的查看格式化后JSON数据的扩展程序，但笔者使用下来，不是很好用。经笔者测试，发现WEB前端助手(FeHelper)扩展程序比JSONView更好用一些。本文说明如何安装 & 使用WEB前端助手(FeHelper)扩展程序来查看JSON数据。
 
-![chrome](F:\github_Blob\DreamItPossible.github.io\_posts\2019\chrome.PNG)
+![chrome](https://github.com/DreamItPossible/DreamItPossible.github.io/tree/master/_posts/2019/chrome.PNG)
 
 ## 方法/步骤
 
