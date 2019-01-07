@@ -11,8 +11,6 @@ tags:
     - Chrome测试返回Json格式化
 ---
 
->参考[经营百度])
-
 
 
 ## Chrome浏览器如何格式化查看JSON数据？
@@ -92,6 +90,8 @@ tags:
    [![Chrome浏览器如何格式化查看JSON数据？](https://imgsa.baidu.com/exp/w=500/sign=fd8d5022798b4710ce2ffdccf3cec3b2/ac4bd11373f082021d83393c40fbfbedab641b9b.jpg)](http://jingyan.baidu.com/album/a3a3f811326b128da2eb8a8b.html?picindex=9)
 
    希望这些对你有帮助。
+   
+   >参考[经营百度](https://jingyan.baidu.com/article/a3a3f811326b128da2eb8a8b.html)
      
 
 
