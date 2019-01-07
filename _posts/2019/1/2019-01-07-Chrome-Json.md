@@ -43,7 +43,7 @@ tags:
 
    下载地址：http://pan.baidu.com/s/1qYc9XSS
 
-   [![](https://github.com/DreamItPossible/DreamItPossible.github.io/blob/master/_posts/2019/1/11.PNG)]
+   ![](https://github.com/DreamItPossible/DreamItPossible.github.io/blob/master/_posts/2019/1/11.PNG)
 
 3. 3
 
