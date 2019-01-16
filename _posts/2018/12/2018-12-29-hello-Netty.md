@@ -23,7 +23,7 @@ tags:
 
 ### 2、  [Netty入门教程2——动手搭建HttpServer](https://www.jianshu.com/p/ed0177a9b2e3)
 
-### 3、  Netty入门教程3——Decoder和Encoder(https://www.jianshu.com/p/fd815bd437cd)
+### 3、  [Netty入门教程3——Decoder和Encoder](https://www.jianshu.com/p/fd815bd437cd)
 
 ### 4、  [Netty笔记4-如何实现长连接](https://www.jianshu.com/p/9d89b2299ce4)
 
